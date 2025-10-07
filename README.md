@@ -1,5 +1,5 @@
 ## 👋 Hello Peoples!
-I'm **iput-object** from **Bangladesh 🇧🇩**.  
+I'm **Obito** from **Bangladesh 🇧🇩**.  
 In my free time, I love contributing to the community by making **Android-based mods** and open-source tools. </br>
 
 Currently I'm Learning **MERN STACK**
