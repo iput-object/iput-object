@@ -1,77 +1,24 @@
-## 👋 Hello Peoples!
-I'm **Obito** from **Bangladesh 🇧🇩**.  
-In my free time, I love contributing to the community by making **Android-based mods** and open-source tools. </br>
+<h3>ANOTHER DAY WASTING RESOURCES OF THE EARTH</h3>
 
-Currently I'm Learning **MERN STACK**
-<p align="left">
-  <a href="https://github.com/iput-object"><img src="https://img.shields.io/github/followers/iput-object?style=flat-square&color=blue&logo=github" alt="Followers" /></a>
-  <a href="https://github.com/iput-object?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore%20Now-blue?style=flat-square" /></a>
-</p>
-
-
-### 🧠 What I Know
-
-- ☕ **Java** — Backend and Android projects  
-- 🐍 **Python** — Scripting & automation
-- 💻 **Web Development** — HTML, CSS, JavaScript
-- 🔁 **Workflow Automation** — GitHub Actions, CI/CD, and build pipelines  
-- ⚙️ **Smali**, **Bash**, and more system-level tinkering tools  
+Hey, This is me. backend developer by day, android modder by night. i build things, break things, and occasionally push code. based in bangladesh, slacking off professionally.
 
 ---
 
-### 📱 Current Devices
+<h3>SOMEONE IS WATCHING</h3>
 
-- 💻 **Walton Passion BP3800** — running **Ubuntu 25.04**  
-- 📱 **Redmi Note 9 Pro Max (Excalibur / Miatoll)** — [Telegram Group](https://t.me/miatollcave)
-
----
-
-### 🧩 Featured Projects
-
-| Project | Description |
-|----------|--------------|
-| [**XdPreference**](https://github.com/iput-object/XdPreference) | A flexible and powerful Android shared preferences library |
-| [**Oplus-Launcher**](https://github.com/iput-object/Oplus-Launcher) | A modified launcher inspired by Oplus devices, optimized for customization |
+<div align="center">
+  <img src="https://count.getloli.com/@:iput-object?theme=gelbooru&padding=9&scale=1&align=top&pixelated=1&darkmode=auto" />
+</div>
 
 ---
 
-### 📊 Profile Views
+<h3>WHAT I'VE BEEN UP TO</h3>
 
-<p align="center">
-  <img src="https://count.getloli.com/@:iput-object?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
-</p>
-
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
-### 📊 GitHub Stats
+<h3>SNAKE EATING MY COMMITS</h3>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iput-object&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iput-object&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### ⚡ Quick Facts
-
-- 🧩 Always exploring Android internals & system modification  
-- 💬 Love discussing tech, ROMs, and modding  
-- 🌱 Learning never stops — every bug is a new challenge  
-- 🧠 Motto: *“Code. Break. Fix. Learn.”*
-
----
-
-<p align="center">
-  <i>“Stay curious, keep tinkering, and share your discoveries.”</i> 🔧
-</p>
-
-<p align="center">
-  <a href="https://github.com/iput-object">
-    <img src="https://img.shields.io/badge/GitHub-@iput--object-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+![snake](https://raw.githubusercontent.com/iput-object/iput-object/snake-output/snake.svg)
