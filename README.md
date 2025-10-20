@@ -46,11 +46,6 @@ Currently I'm Learning **MERN STACK**
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iput-object&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iput-object&theme=tokyo-night&hide_border=true" />
 </p>
