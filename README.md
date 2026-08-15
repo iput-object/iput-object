@@ -15,8 +15,8 @@ Hey, This is me. backend developer by day, android modder by night. i build thin
 <h3>WHAT I'VE BEEN UP TO</h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Cupid-OS3.0.3.0 - Android 15 - Update](https://github.com/MiatollCave/Xiaomi.EU-Miatoll/releases/tag/3.0.3.0) in [MiatollCave/Xiaomi.EU-Miatoll](https://github.com/MiatollCave/Xiaomi.EU-Miatoll)
-2. 🚀 Published release [Cupid-OS3.0.2.0 - Android 15 - Fix](https://github.com/MiatollCave/Xiaomi.EU-Miatoll/releases/tag/3.0.2.0-fix) in [MiatollCave/Xiaomi.EU-Miatoll](https://github.com/MiatollCave/Xiaomi.EU-Miatoll)
+1. ❌ Closed PR [#11](https://github.com/iput-object/nestjs-production-starter/pull/11) in [iput-object/nestjs-production-starter](https://github.com/iput-object/nestjs-production-starter)
+2. ❌ Closed PR [#10](https://github.com/iput-object/nestjs-production-starter/pull/10) in [iput-object/nestjs-production-starter](https://github.com/iput-object/nestjs-production-starter)
 <!--END_SECTION:activity-->
 
 ---
