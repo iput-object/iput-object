@@ -15,8 +15,8 @@ Hey, This is me. backend developer by day, android modder by night. i build thin
 <h3>WHAT I'VE BEEN UP TO</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/iput-object/nestjs-production-starter/pull/24) in [iput-object/nestjs-production-starter](https://github.com/iput-object/nestjs-production-starter)
-2. 💪 Opened PR [#24](https://github.com/iput-object/nestjs-production-starter/pull/24) in [iput-object/nestjs-production-starter](https://github.com/iput-object/nestjs-production-starter)
+1. 🎉 Merged PR [#7](https://github.com/iput-object/GitSwitch/pull/7) in [iput-object/GitSwitch](https://github.com/iput-object/GitSwitch)
+2. 💪 Opened PR [#7](https://github.com/iput-object/GitSwitch/pull/7) in [iput-object/GitSwitch](https://github.com/iput-object/GitSwitch)
 <!--END_SECTION:activity-->
 
 ---
