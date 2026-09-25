@@ -15,8 +15,8 @@ Hey, This is me. backend developer by day, android modder by night. i build thin
 <h3>WHAT I'VE BEEN UP TO</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#34](https://github.com/iput-object/nestjs-production-starter/pull/34) in [iput-object/nestjs-production-starter](https://github.com/iput-object/nestjs-production-starter)
-2. ❌ Closed PR [#33](https://github.com/iput-object/nestjs-production-starter/pull/33) in [iput-object/nestjs-production-starter](https://github.com/iput-object/nestjs-production-starter)
+1. 🔒 Closed issue [#1](https://github.com/iput-object/layout-canvas/issues/1) in [iput-object/layout-canvas](https://github.com/iput-object/layout-canvas)
+2. ❗ Opened issue [#1](https://github.com/iput-object/layout-canvas/issues/1) in [iput-object/layout-canvas](https://github.com/iput-object/layout-canvas)
 <!--END_SECTION:activity-->
 
 ---
