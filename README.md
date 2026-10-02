@@ -15,8 +15,8 @@ Hey, This is me. backend developer by day, android modder by night. i build thin
 <h3>WHAT I'VE BEEN UP TO</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/iput-object/layout-canvas/issues/1) in [iput-object/layout-canvas](https://github.com/iput-object/layout-canvas)
-2. ❗ Opened issue [#1](https://github.com/iput-object/layout-canvas/issues/1) in [iput-object/layout-canvas](https://github.com/iput-object/layout-canvas)
+1. 🎉 Merged PR [#15](https://github.com/iput-object/GitSwitch/pull/15) in [iput-object/GitSwitch](https://github.com/iput-object/GitSwitch)
+2. 🎉 Merged PR [#14](https://github.com/iput-object/GitSwitch/pull/14) in [iput-object/GitSwitch](https://github.com/iput-object/GitSwitch)
 <!--END_SECTION:activity-->
 
 ---
