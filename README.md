@@ -15,8 +15,8 @@ Hey, This is me. backend developer by day, android modder by night. i build thin
 <h3>WHAT I'VE BEEN UP TO</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/iput-object/GitSwitch/pull/15) in [iput-object/GitSwitch](https://github.com/iput-object/GitSwitch)
-2. 🎉 Merged PR [#14](https://github.com/iput-object/GitSwitch/pull/14) in [iput-object/GitSwitch](https://github.com/iput-object/GitSwitch)
+1. 🗣 Commented on [#9623](https://github.com/AppImage/appimage.github.io/pull/9623#issuecomment-5966184464) in [AppImage/appimage.github.io](https://github.com/AppImage/appimage.github.io)
+2. 🗣 Commented on [#9623](https://github.com/AppImage/appimage.github.io/pull/9623#issuecomment-5966065766) in [AppImage/appimage.github.io](https://github.com/AppImage/appimage.github.io)
 <!--END_SECTION:activity-->
 
 ---
