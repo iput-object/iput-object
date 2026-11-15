@@ -15,8 +15,8 @@ Hey, This is me. backend developer by day, android modder by night. i build thin
 <h3>WHAT I'VE BEEN UP TO</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9623](https://github.com/AppImage/appimage.github.io/pull/9623#issuecomment-5966184464) in [AppImage/appimage.github.io](https://github.com/AppImage/appimage.github.io)
-2. 🗣 Commented on [#9623](https://github.com/AppImage/appimage.github.io/pull/9623#issuecomment-5966065766) in [AppImage/appimage.github.io](https://github.com/AppImage/appimage.github.io)
+1. 🗣 Commented on [#245](https://github.com/REAndroid/APKEditor/issues/245#issuecomment-6877256984) in [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor)
+2. ❗ Opened issue [#245](https://github.com/REAndroid/APKEditor/issues/245) in [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor)
 <!--END_SECTION:activity-->
 
 ---
