@@ -15,8 +15,8 @@ Hey, This is me. backend developer by day, android modder by night. i build thin
 <h3>WHAT I'VE BEEN UP TO</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#245](https://github.com/REAndroid/APKEditor/issues/245#issuecomment-6877256984) in [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor)
-2. ❗ Opened issue [#245](https://github.com/REAndroid/APKEditor/issues/245) in [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor)
+1. 🚀 Published release [rouse v0.1.0](https://github.com/iput-object/rouse/releases/tag/v0.1.0) in [iput-object/rouse](https://github.com/iput-object/rouse)
+2. 🗣 Commented on [#245](https://github.com/REAndroid/APKEditor/issues/245#issuecomment-6877256984) in [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor)
 <!--END_SECTION:activity-->
 
 ---
